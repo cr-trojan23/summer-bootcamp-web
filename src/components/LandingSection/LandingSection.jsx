@@ -70,7 +70,7 @@ const LandingSection = () => {
               </a>
             </li>
             <li className="nav-link contact">
-              <a href="mailto:johndoe@gmail.com">Contact Me</a>
+              <a href="mailto:pandusrinu1604@gmail.com">Contact Me</a>
             </li>
           </ul>
         </nav>
@@ -78,10 +78,10 @@ const LandingSection = () => {
       <main className="landing">
         <article>
           <h2 className="main-heading">
-            Hey, I am <span className="orange">John Doe</span>
+            Hey, I am <span className="orange">Srinivas V</span>
           </h2>
           <h3 className="sub-heading">
-            I am a <span className="green">MERN Stack Developer</span>
+            I am a <span className="green">LAMP Stack Developer</span>
           </h3>
         </article>
         <img src={Illustration} alt="Illustration" className="landing-il" />
@@ -90,7 +90,7 @@ const LandingSection = () => {
             <div className="mouse">
               <div className="wheel"></div>
             </div>
-            <div>
+            <div>MERN
               <span className="m_scroll_arrows unu"></span>
               <span className="m_scroll_arrows doi"></span>
               <span className="m_scroll_arrows trei"></span>
