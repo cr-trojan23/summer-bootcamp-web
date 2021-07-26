@@ -1,7 +1,7 @@
 export const SKILLS = [
   { name: "AWS", skill: 95 },
   { name: "Jenkins", skill: 88 },
-  { name: "SCSS", skill: 64 },
+  { name: "Java", skill: 64 },
   { name: "JavaScript", skill: 98 },
   { name: "TypeScript", skill: 94 },
   { name: "MongoDB", skill: 75 },
